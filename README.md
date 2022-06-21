@@ -52,7 +52,7 @@
 # 📊GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NormalHero&show_icons=true&theme=radical)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NormalHero&theme=radical&hide_border=false)<br/>
+
 
 
 
