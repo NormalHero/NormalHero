@@ -1,6 +1,7 @@
 #  🎸안녕하세요 박민수입니다!  
 'SIC PARVIS MAGNA' 시작은 미약하나 끝은 창대하리라는 뜻으로 제가 좋아하는 문구 중 하나인데요,
-실패를 두려워하지 않고 도전을 즐기는 저에게 모토가 되는 말입니다. 백엔드 주니어 개발자 박민수 입니다. 반갑습니다! 
+실패를 두려워하지 않고 도전을 즐기는 저에게 모토가 되는 말입니다. 백엔드 주니어 개발자 박민수 입니다. 반갑습니다! <br/>
+ <a href="https://luminous-sweatpants-b64.notion.site/Hello-Avery-c45b1be3690649ba85d674d5d8b33f47">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) </a>
 
 # 💻Tech Stack (my standards)
 
@@ -37,9 +38,10 @@
 ### Level 1
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat&logo=Ubuntu-&logoColor=white) 
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=flat&logo=C-&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=C++-&logoColor=white) 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat&logo=Ubuntu-&logoColor=white) 
+
 
 
 
@@ -58,5 +60,5 @@
 
 
 --------------------- 
- [![](https://visitcount.itsvg.in/api?id=NormalHero&icon=4&color=12)](https://visitcount.itsvg.in)<br/>
- <a href="https://luminous-sweatpants-b64.notion.site/Hello-Avery-c45b1be3690649ba85d674d5d8b33f47">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) </a>
+ [![](https://visitcount.itsvg.in/api?id=NormalHero&icon=4&color=12)](https://visitcount.itsvg.in)
+
