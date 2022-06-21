@@ -1,18 +1,58 @@
-# 안녕하세요 박민수입니다!  👋
+#  🎸안녕하세요 박민수입니다!  
 
-<!--
-**NormalHero/NormalHero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻Tech Stack (my standards)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+### Level 5
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=Java&logoColor=white) 
+
+
+
+### Level 4
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=flat&logo=SpringBoot&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) 
+
+
+### Level 3
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) 
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=flat&logo=Thymeleaf&logoColor=white) 
+![Git](https://img.shields.io/badge/git-181717?style=flat&logo=Git&logoColor=white) 
+![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white) 
+<img src="https://img.shields.io/badge/JPA-green"/>
+![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?style=flat&logo=Sourcetree&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white) 
+<img src="https://img.shields.io/badge/Mybatis-gray"/>
+<img src="https://img.shields.io/badge/SVN-819EC8"/>
+
+### Level 2
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![AdobePhotoshop](https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=white) 
+
+### Level 1
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
+![C](https://img.shields.io/badge/C-A8B9CC.svg?style=flat&logo=C-&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=C++-&logoColor=white) 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat&logo=Ubuntu-&logoColor=white) 
+
+
+
+
+
+
+
+# 📊GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NormalHero&show_icons=true&theme=radical)
+
+
+
+
+
+--------------------- 
+ <a href="https://luminous-sweatpants-b64.notion.site/Hello-Avery-c45b1be3690649ba85d674d5d8b33f47">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) </a>
