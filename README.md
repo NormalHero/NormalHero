@@ -4,14 +4,15 @@
  <a href="https://luminous-sweatpants-b64.notion.site/Hello-Avery-c45b1be3690649ba85d674d5d8b33f47">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) </a>
 
 # 💻Tech Stack (my standards)
+*프로젝트 경험 유무, 프로젝트 경험 횟수, 사용 빈도수, 전문 교육 유무, 자신감등을 바탕으로 제작한 주관적인 Tier입니다.
 
   
-### Level 5
+### Tier 1
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=Java&logoColor=white) 
 
 
 
-### Level 4
+### Tier 2
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=flat&logo=SpringBoot&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
@@ -19,7 +20,7 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) 
 
 
-### Level 3
+### Tier 3
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) 
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=flat&logo=Thymeleaf&logoColor=white) 
@@ -31,11 +32,11 @@
 <img src="https://img.shields.io/badge/Mybatis-gray"/>
 <img src="https://img.shields.io/badge/SVN-819EC8"/>
 
-### Level 2
+### Tier 4
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![AdobePhotoshop](https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=white) 
 
-### Level 1
+### Tier 5
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat&logo=Ubuntu-&logoColor=white) 
