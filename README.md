@@ -52,7 +52,7 @@
 
 # 📊GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NormalHero&show_icons=true&theme=radical)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ragnar-park&show_icons=true&theme=radical)<br/>
 
 
 
