@@ -4,7 +4,7 @@
  <a href="https://luminous-sweatpants-b64.notion.site/Hello-Avery-c45b1be3690649ba85d674d5d8b33f47">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) </a>
 
 # 💻Tech Stack (my standards)
-*프로젝트 경험 유무, 프로젝트 경험 횟수, 사용 빈도수, 전문 교육 유무, 자신감등을 바탕으로 제작한 주관적인 Tier입니다.
+*프로젝트 경험 유무, 프로젝트 경험 횟수, 사용 빈도수, 전문 교육 유무, 자신감 등을 바탕으로 제작한 주관적인 Tier입니다.
 
   
 ### Tier 1
